@@ -1,0 +1,16 @@
+{
+  "name": "Ishaan",
+  "bio": "Sophomore with passion for **learning**"
+   "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/Ishaan2053",
+      "icon": "FaTwitter"
+    }
+ {
+      "name": "Find me on GitHub",
+      "url": "https://github.com/Ishaan2053",
+      "icon": "FaGithub"
+    }
+  ]
+}
